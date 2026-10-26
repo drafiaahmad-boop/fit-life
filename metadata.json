@@ -1,0 +1,8 @@
+{
+  "name": "FitLife — Healthy Living & Fitness Companion",
+  "description": "A comprehensive fitness and healthy living platform with affordable Pakistani meal planning, beginner home workouts, habit tracking, and fitness education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
